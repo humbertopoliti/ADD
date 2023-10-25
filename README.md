@@ -27,7 +27,11 @@ The suspense lingered as they grappled with the question: In a world without com
 
 ### The Bottom Line
 
-#### First Principle of ADD
+ADD follows the following principles
+
+
+#### First Principle of ADD
+
 
 > Never forget that software is simply automation
 
