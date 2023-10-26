@@ -11,7 +11,7 @@ Below we present a short story that represents the idea behind the methodology. 
 
 ### Start of your Isekai journey
 
-Once upon a time, there was a group of people who worked at `<insert company name here>`, a great company where many types of services and products were created. They were a talented team with many people from different backgrounds and areas of the company, and they had created some amazing software to help each other. 
+Once upon a time, there was a group of people who worked at `insert company name here`, a great company where many types of services and products were created. They were a talented team with many people from different backgrounds and areas of the company, and they had created some amazing software to help each other. 
 
 After a day filled with a lot of productive work, the group headed out for drinks. Little did they know that their adventure was about to take an unexpected turn. When crossing a street, a bus appeared out of nowhere and ran over the entire team.
 
