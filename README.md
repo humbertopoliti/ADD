@@ -1,5 +1,5 @@
 # ADD
-Agent-Driven Design (ADD), also know as Isekai-Driven Design), is a novel software design methodology that aims to solve common issues with software development by boosting communication, collaboration and knowledge sharing between engineers/developers and non-technical people.
+Agent-Driven Design (ADD), also know as Isekai-Driven Design (IDD), is a novel software design methodology that aims to solve common issues with software development by boosting communication, collaboration and knowledge sharing between engineers/developers and non-technical people.
 
 It can be used by organisations of any size and teams working in any programming paradigm and programming languages. It can also be used for design at any level of abstraction, so no matter whether you are designing classes, modules, microservices, the same technique can be followed. It also supports emerging programming paradigms where complex systems are created using AI Agents (hence the name).
 
