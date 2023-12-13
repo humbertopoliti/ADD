@@ -38,9 +38,39 @@ ADD follows the following principles
 The first principle reminds us that software is automation and that most processes we perform today with software could be executed without computers, albeit on a much smaller scale and over a considerably longer time frame.
 
 
+
+
 #### Second Principle of ADD
 
 > Code should model an organisation without computers
 
-The second principle is more complex and represents the heart of ADD. If software is automation, that automation should model what the organisation of your company would look like if computers did not exist.
+The second principle is more complex and represents the heart of ADD. If software is automation, that automation should model what the organisation of your company would look like if computers did not exist. 
+
+This hints that software design doesn't necessarily needs to be done by software developers. In fact, every piece of software design that relates to business logic should be understandable by non-technical people.
+
+
+#### Third Principle of ADD
+
+> Agents should be modelled at business level, not at implementation level
+
+This principle brings us to the definition of an Agent. For ADD an Agent is a unit of an organisation, automated or not (.i.e. software or real person), that complies to the following:
+
+- An Agent has specialist logic
+
+
+- An Agent has a goal to reach
+
+
+- An Agent interacts with other agents
+
+
+
+
+
+
+
+
+
+
+
 
